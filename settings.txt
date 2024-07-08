@@ -1,0 +1,5 @@
+#Database settings
+#Wed Jun 05 02:28:50 KRAT 2024
+PASSWORD= zxc
+URL= jdbc:postgresql://localhost:5432/organizerdb
+USERNAME= postgres
